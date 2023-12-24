@@ -19,10 +19,11 @@
 - **Soft Skills**: Business Acumen, Teamwork, Storytelling, Adaptability, Critical Thinking.
 
 ### Follow me on:
+
 - LinkedIn: https://www.linkedin.com/in/matt-chang-cv/
-- 
+  
 - Github: https://github.com/Matt-Chang
-- 
+  
 - Medium: https://medium.com/@MattYuChang
-- 
+  
 - Language Society: https://www.facebook.com/groups/339684780397912/
